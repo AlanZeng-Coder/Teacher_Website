@@ -1,4 +1,4 @@
-USE school_info_db;
+USE s50xju346ih5cc9g;
 
 CREATE TABLE IF NOT EXISTS emails (
                                       id INT AUTO_INCREMENT PRIMARY KEY,
